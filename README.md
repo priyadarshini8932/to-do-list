@@ -1,1 +1,1 @@
-to do list using html, css and js
+to do list using html, css and js.
